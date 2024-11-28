@@ -9,7 +9,7 @@ Check out my profile: https://hyperskill.org/profile/501003816
 
 **Examples**
 
-The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input: It is just used to separate the user input from the output of your program in the stage examples, you don't need to print the > sign!
+The greater-than symbol followed by a space (> ) represents the user input.
 
 ```
 Example 1: the user inputs 2000 for staff expenses and 205 for other expenses accordingly:
