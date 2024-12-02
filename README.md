@@ -19,7 +19,7 @@ cd <project-folder>
    <br> [About](https://hyperskill.org/projects/380): Imagine that you're the owner of a new small corner shop. You are doing well and want to determine how much you earned in the first month.
    Create a simple tool that will calculate your net income. Upon completing this project, you can use this tool for your own accounting needs.
 
-2. **Second project is coming soon** [GitHub](https://github.com/Kinalenz/Hyperskill-Java-projects/tree/master/Last%20Pencil%20(Java)/Last%20Pencil%20(Java)/task/src/lastpencil)
+2. **Last Pencil** [GitHub](https://github.com/Kinalenz/Hyperskill-Java-projects/tree/master/Last%20Pencil%20(Java)/Last%20Pencil%20(Java)/task/src/lastpencil)
    <br> [About](https://hyperskill.org/projects/341): Playing with friends is pure fun but getting ahead of them is even more enjoyable.
    Invite a friend to play the Last Pencil, a game where you decide who wins. In this project, your opponent is a computer that is an expert in the game. But it's up to you to choose who wins.
 
