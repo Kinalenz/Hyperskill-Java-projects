@@ -24,7 +24,7 @@ cd <project-folder>
    Invite a friend to play the Last Pencil, a game where you decide who wins. In this project, your opponent is a computer that is an expert in the game. But it's up to you to choose who wins.
 
 3. **Car Sharing** [GitHub](https://github.com/Kinalenz/Hyperskill-Java-projects/tree/master/Car%20Sharing/Car%20Sharing/task/src/carsharing)
-   <br> [About](https://hyperskill.org/projects/140): The application allowed managers to manage companies and their cars, and customers could register, browse, rent, and return cars.
+   <br> [About](https://hyperskill.org/projects/140): The console-based application allowed managers to manage companies and their cars, and customers could register, browse, rent, and return cars.
    The system featured a database backend powered by H2, with tables for companies, cars, and customers.
 
-4. **Next project is comming soon...**
+4. **Next project is coming soon...**
